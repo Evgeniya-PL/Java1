@@ -40,4 +40,5 @@ public class HomeWorkJava1 {
             System.out.println("Год не високосный.");
         }
     }
+
 }
