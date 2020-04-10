@@ -1,9 +1,7 @@
 package ru.geekbrains;
 
-public class HomeWorkJava1 {
+public class HomeWork1 {
 
-    public class HomeWork {
-    }
     public static void main(String[] args) {
     }
     private static float ExampleOne ( int a, int b, int c, int d){
